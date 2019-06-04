@@ -81,5 +81,5 @@ foreign key (id_veiculo) references tb_veiculos(id_veiculo)
 4.1 passo (opcional) - para executar o programa pelo visual studio execute o arquivo HWSystems
 4.2 Defina como projeto padrão o LoginForm.
 4.3 passo - ao executar o programa vai dar um erro, para resolver esse erro, adicione referencia na bliblioteca de classe HWSystem, na aba de referencias
-vá na aba procurar e selecione o primeiro aqrquivo "mysql.data.dll", e pronto erro resolvido.
+clqiue no botão procurar procurar abra a pasta LoginForm\connectors e selecione arquivo "mysql.data.dll", e pronto erro resolvido.
 4.4 execute normalmente.
